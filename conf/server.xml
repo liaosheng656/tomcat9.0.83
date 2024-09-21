@@ -174,7 +174,7 @@
                prefix="localhost_access_log" suffix=".txt"
                pattern="%h %l %u %t &quot;%r&quot; %s %b" />
 <!--        <Context/>  //容器组件，为特定的Web应用处理所有的客户请求-->
-        <Context docBase="E:\Work02\mvc-test\target\mvc-test-1.0-SNAPSHOT" path="/mvc" reloadable="true" />
+        <Context docBase="E:\Work02\apache-tomcat-9.0.83-src\mvc-test\target\mvc-test-1.0-SNAPSHOT" path="/mvc" reloadable="true" />
       </Host><!-- 器组件，处理特定的Host下客户请求，可包含多个Context-->
     </Engine><!-- 容器组件，一个Engine组件处理Service中的所有请求，包含多个Host-->
   </Service><!--顶层组件，可包含一个Engine，多个连接器 -->
