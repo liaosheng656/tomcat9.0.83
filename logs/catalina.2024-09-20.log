@@ -1,0 +1,562 @@
+20-Sep-2024 21:27:35.432 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\Work02\apache-tomcat-9.0.83-src\lib], exists: [false], isDirectory: [false], canRead: [false]
+20-Sep-2024 21:27:35.435 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\Work02\apache-tomcat-9.0.83-src\lib], exists: [false], isDirectory: [false], canRead: [false]
+20-Sep-2024 21:27:35.436 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\Work02\apache-tomcat-9.0.83-src\lib], exists: [false], isDirectory: [false], canRead: [false]
+20-Sep-2024 21:27:35.436 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\Work02\apache-tomcat-9.0.83-src\lib], exists: [false], isDirectory: [false], canRead: [false]
+20-Sep-2024 21:27:38.976 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.x-dev
+20-Sep-2024 21:27:38.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          unknown
+20-Sep-2024 21:27:38.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.x
+20-Sep-2024 21:27:38.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+20-Sep-2024 21:27:38.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+20-Sep-2024 21:27:38.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Sep-2024 21:27:38.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\Java11
+20-Sep-2024 21:27:38.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.5+10-LTS
+20-Sep-2024 21:27:38.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+20-Sep-2024 21:27:38.977 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\Work02\apache-tomcat-9.0.83-src
+20-Sep-2024 21:27:38.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\Work02\apache-tomcat-9.0.83-src
+20-Sep-2024 21:27:38.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:58592,suspend=y,server=n
+20-Sep-2024 21:27:38.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\Work02\apache-tomcat-9.0.83-src
+20-Sep-2024 21:27:38.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\Work02\apache-tomcat-9.0.83-src
+20-Sep-2024 21:27:38.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\Work02\apache-tomcat-9.0.83-sr\temp
+20-Sep-2024 21:27:38.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Sep-2024 21:27:38.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\Work02\apache-tomcat-9.0.83-src\conf\logging.properties
+20-Sep-2024 21:27:38.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote
+20-Sep-2024 21:27:38.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.port=8011
+20-Sep-2024 21:27:38.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+20-Sep-2024 21:27:38.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+20-Sep-2024 21:27:38.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Duser.language=en
+20-Sep-2024 21:27:38.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Duser.region=US
+20-Sep-2024 21:27:38.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\19129\AppData\Local\JetBrains\IntelliJIdea2022.2\captureAgent\debugger-agent.jar
+20-Sep-2024 21:27:38.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+20-Sep-2024 21:27:39.016 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\Java11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\NetSarang\Xftp 6\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\Java11;C:\Users\19129\123\Java\apache-maven-3.6.1\apache-maven-3.6.1\bin;F:\exploitation\consul_1.3.1_windows_amd64;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;F:\exploitation\yarn\bin\;F:\exploitation\SVN\bin;C:\Program Files\Java\Java11\jre\bin;F:\exploitation\gradle-5.6.4-bin\gradle-5.6.4\bin;C:\Users\19129\123\Git\mingw64\bin;C:\Users\19129\123\Git\mingw64\cmd;C:\Program Files (x86)\Tencent\微信web开发者工具\dll;C:\Users\19129\123\mysql-5.7\bin;C:\Users\19129\AppData\Local\Microsoft\WindowsApps;C:\Users\19129\123\Microsoft VS Code\bin;C:\Users\19129\AppData\Local\Yarn\bin;;.]
+20-Sep-2024 21:27:39.681 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 21:27:39.747 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [3821] milliseconds
+20-Sep-2024 21:27:40.172 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Sep-2024 21:27:40.172 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.x-dev]
+20-Sep-2024 21:27:54.985 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Sep-2024 21:27:55.290 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [302] milliseconds.
+20-Sep-2024 21:27:55.368 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\docs]
+20-Sep-2024 21:27:55.428 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Sep-2024 21:27:55.430 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\docs] has finished in [63] ms
+20-Sep-2024 21:27:55.430 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\examples]
+20-Sep-2024 21:27:55.593 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Sep-2024 21:27:55.606 SEVERE [main] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+20-Sep-2024 21:27:55.607 SEVERE [main] org.apache.catalina.core.StandardContext.startInternal Context [/examples] startup failed due to previous errors
+20-Sep-2024 21:27:55.615 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\examples] has finished in [185] ms
+20-Sep-2024 21:27:55.615 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\host-manager]
+20-Sep-2024 21:27:55.678 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Sep-2024 21:27:55.683 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\host-manager] has finished in [68] ms
+20-Sep-2024 21:27:55.683 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\manager]
+20-Sep-2024 21:27:55.749 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Sep-2024 21:27:55.753 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\manager] has finished in [70] ms
+20-Sep-2024 21:27:55.753 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\ROOT]
+20-Sep-2024 21:27:55.803 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Sep-2024 21:27:55.805 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\ROOT] has finished in [52] ms
+20-Sep-2024 21:27:55.808 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 21:27:55.841 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [16094] milliseconds
+20-Sep-2024 21:31:49.157 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 21:31:49.434 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-Sep-2024 21:31:49.451 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 21:31:49.469 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 21:31:53.970 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\Work02\apache-tomcat-9.0.83-src\lib], exists: [false], isDirectory: [false], canRead: [false]
+20-Sep-2024 21:31:53.972 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\Work02\apache-tomcat-9.0.83-src\lib], exists: [false], isDirectory: [false], canRead: [false]
+20-Sep-2024 21:31:53.973 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\Work02\apache-tomcat-9.0.83-src\lib], exists: [false], isDirectory: [false], canRead: [false]
+20-Sep-2024 21:31:53.973 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\Work02\apache-tomcat-9.0.83-src\lib], exists: [false], isDirectory: [false], canRead: [false]
+20-Sep-2024 21:31:54.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.x-dev
+20-Sep-2024 21:31:54.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          unknown
+20-Sep-2024 21:31:54.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.x
+20-Sep-2024 21:31:54.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+20-Sep-2024 21:31:54.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+20-Sep-2024 21:31:54.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Sep-2024 21:31:54.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\Java11
+20-Sep-2024 21:31:54.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.5+10-LTS
+20-Sep-2024 21:31:54.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+20-Sep-2024 21:31:54.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\Work02\apache-tomcat-9.0.83-src
+20-Sep-2024 21:31:54.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\Work02\apache-tomcat-9.0.83-src
+20-Sep-2024 21:31:54.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:58706,suspend=y,server=n
+20-Sep-2024 21:31:54.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\Work02\apache-tomcat-9.0.83-src
+20-Sep-2024 21:31:54.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\Work02\apache-tomcat-9.0.83-src
+20-Sep-2024 21:31:54.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\Work02\apache-tomcat-9.0.83-sr\temp
+20-Sep-2024 21:31:54.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Sep-2024 21:31:54.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\Work02\apache-tomcat-9.0.83-src\conf\logging.properties
+20-Sep-2024 21:31:54.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote
+20-Sep-2024 21:31:54.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.port=8011
+20-Sep-2024 21:31:54.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+20-Sep-2024 21:31:54.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+20-Sep-2024 21:31:54.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Duser.language=en
+20-Sep-2024 21:31:54.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Duser.region=US
+20-Sep-2024 21:31:54.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\19129\AppData\Local\JetBrains\IntelliJIdea2022.2\captureAgent\debugger-agent.jar
+20-Sep-2024 21:31:54.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+20-Sep-2024 21:31:54.221 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\Java11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\NetSarang\Xftp 6\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\Java11;C:\Users\19129\123\Java\apache-maven-3.6.1\apache-maven-3.6.1\bin;F:\exploitation\consul_1.3.1_windows_amd64;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;F:\exploitation\yarn\bin\;F:\exploitation\SVN\bin;C:\Program Files\Java\Java11\jre\bin;F:\exploitation\gradle-5.6.4-bin\gradle-5.6.4\bin;C:\Users\19129\123\Git\mingw64\bin;C:\Users\19129\123\Git\mingw64\cmd;C:\Program Files (x86)\Tencent\微信web开发者工具\dll;C:\Users\19129\123\mysql-5.7\bin;C:\Users\19129\AppData\Local\Microsoft\WindowsApps;C:\Users\19129\123\Microsoft VS Code\bin;C:\Users\19129\AppData\Local\Yarn\bin;;.]
+20-Sep-2024 21:31:54.380 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 21:31:54.400 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [411] milliseconds
+20-Sep-2024 21:31:54.470 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Sep-2024 21:31:54.470 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.x-dev]
+20-Sep-2024 21:31:54.509 SEVERE [main] org.apache.catalina.core.ContainerBase.startInternal A child container failed during start
+	java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@3d1848cc]
+		at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122)
+		at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:873)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:794)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1332)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1322)
+		at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:866)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:248)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:433)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:921)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:347)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:478)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@3d1848cc]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:419)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:186)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4575)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4708)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1332)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1322)
+		at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:866)
+		... 22 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [E:\Work02\mvc] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:749)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:707)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		... 32 more
+20-Sep-2024 21:31:54.511 SEVERE [main] org.apache.catalina.core.ContainerBase.startInternal A child container failed during start
+	java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: A child container failed during start
+		at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122)
+		at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:873)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:248)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:433)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:921)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:347)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:478)
+	Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:885)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:794)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1332)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1322)
+		at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:866)
+		... 13 more
+	Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@3d1848cc]
+		at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122)
+		at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:873)
+		... 22 more
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@3d1848cc]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:419)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:186)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4575)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4708)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1332)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1322)
+		at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:866)
+		... 22 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [E:\Work02\mvc] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:749)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:707)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		... 32 more
+20-Sep-2024 21:31:54.514 SEVERE [main] org.apache.catalina.startup.Catalina.start The required Server component failed to start so Tomcat is unable to start.
+	org.apache.catalina.LifecycleException: A child container failed during start
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:885)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:248)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:433)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:921)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:347)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:478)
+	Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: A child container failed during start
+		at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122)
+		at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:873)
+		... 13 more
+	Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:885)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:794)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1332)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1322)
+		at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:866)
+		... 13 more
+	Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@3d1848cc]
+		at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122)
+		at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:873)
+		... 22 more
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@3d1848cc]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:419)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:186)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4575)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4708)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1332)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1322)
+		at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:866)
+		... 22 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [E:\Work02\mvc] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:749)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:707)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		... 32 more
+20-Sep-2024 21:31:54.514 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 21:31:54.515 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-Sep-2024 21:31:54.517 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 21:32:12.631 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\Work02\apache-tomcat-9.0.83-src\lib], exists: [false], isDirectory: [false], canRead: [false]
+20-Sep-2024 21:32:12.633 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\Work02\apache-tomcat-9.0.83-src\lib], exists: [false], isDirectory: [false], canRead: [false]
+20-Sep-2024 21:32:12.634 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\Work02\apache-tomcat-9.0.83-src\lib], exists: [false], isDirectory: [false], canRead: [false]
+20-Sep-2024 21:32:12.634 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\Work02\apache-tomcat-9.0.83-src\lib], exists: [false], isDirectory: [false], canRead: [false]
+20-Sep-2024 21:32:12.849 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.x-dev
+20-Sep-2024 21:32:12.849 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          unknown
+20-Sep-2024 21:32:12.849 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.x
+20-Sep-2024 21:32:12.849 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+20-Sep-2024 21:32:12.850 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+20-Sep-2024 21:32:12.850 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Sep-2024 21:32:12.850 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\Java11
+20-Sep-2024 21:32:12.850 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.5+10-LTS
+20-Sep-2024 21:32:12.850 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+20-Sep-2024 21:32:12.850 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\Work02\apache-tomcat-9.0.83-src
+20-Sep-2024 21:32:12.850 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\Work02\apache-tomcat-9.0.83-src
+20-Sep-2024 21:32:12.850 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:58715,suspend=y,server=n
+20-Sep-2024 21:32:12.850 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\Work02\apache-tomcat-9.0.83-src
+20-Sep-2024 21:32:12.851 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\Work02\apache-tomcat-9.0.83-src
+20-Sep-2024 21:32:12.851 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\Work02\apache-tomcat-9.0.83-sr\temp
+20-Sep-2024 21:32:12.851 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Sep-2024 21:32:12.851 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\Work02\apache-tomcat-9.0.83-src\conf\logging.properties
+20-Sep-2024 21:32:12.851 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote
+20-Sep-2024 21:32:12.851 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.port=8011
+20-Sep-2024 21:32:12.851 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+20-Sep-2024 21:32:12.851 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+20-Sep-2024 21:32:12.851 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Duser.language=en
+20-Sep-2024 21:32:12.851 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Duser.region=US
+20-Sep-2024 21:32:12.851 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\19129\AppData\Local\JetBrains\IntelliJIdea2022.2\captureAgent\debugger-agent.jar
+20-Sep-2024 21:32:12.852 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+20-Sep-2024 21:32:12.863 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\Java11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\NetSarang\Xftp 6\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\Java11;C:\Users\19129\123\Java\apache-maven-3.6.1\apache-maven-3.6.1\bin;F:\exploitation\consul_1.3.1_windows_amd64;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;F:\exploitation\yarn\bin\;F:\exploitation\SVN\bin;C:\Program Files\Java\Java11\jre\bin;F:\exploitation\gradle-5.6.4-bin\gradle-5.6.4\bin;C:\Users\19129\123\Git\mingw64\bin;C:\Users\19129\123\Git\mingw64\cmd;C:\Program Files (x86)\Tencent\微信web开发者工具\dll;C:\Users\19129\123\mysql-5.7\bin;C:\Users\19129\AppData\Local\Microsoft\WindowsApps;C:\Users\19129\123\Microsoft VS Code\bin;C:\Users\19129\AppData\Local\Yarn\bin;;.]
+20-Sep-2024 21:32:13.029 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 21:32:13.052 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [404] milliseconds
+20-Sep-2024 21:32:13.126 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Sep-2024 21:32:13.126 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.x-dev]
+20-Sep-2024 21:32:13.156 SEVERE [main] org.apache.catalina.core.ContainerBase.startInternal A child container failed during start
+	java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@ab7395e]
+		at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122)
+		at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:873)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:794)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1332)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1322)
+		at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:866)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:248)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:433)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:921)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:347)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:478)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@ab7395e]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:419)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:186)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4575)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4708)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1332)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1322)
+		at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:866)
+		... 22 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [E:\Work02\mvc] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:749)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:707)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		... 32 more
+20-Sep-2024 21:32:13.158 SEVERE [main] org.apache.catalina.core.ContainerBase.startInternal A child container failed during start
+	java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: A child container failed during start
+		at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122)
+		at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:873)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:248)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:433)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:921)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:347)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:478)
+	Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:885)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:794)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1332)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1322)
+		at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:866)
+		... 13 more
+	Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@ab7395e]
+		at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122)
+		at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:873)
+		... 22 more
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@ab7395e]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:419)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:186)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4575)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4708)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1332)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1322)
+		at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:866)
+		... 22 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [E:\Work02\mvc] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:749)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:707)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		... 32 more
+20-Sep-2024 21:32:13.161 SEVERE [main] org.apache.catalina.startup.Catalina.start The required Server component failed to start so Tomcat is unable to start.
+	org.apache.catalina.LifecycleException: A child container failed during start
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:885)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:248)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:433)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:921)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:347)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:478)
+	Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: A child container failed during start
+		at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122)
+		at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:873)
+		... 13 more
+	Caused by: org.apache.catalina.LifecycleException: A child container failed during start
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:885)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:794)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1332)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1322)
+		at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:866)
+		... 13 more
+	Caused by: java.util.concurrent.ExecutionException: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@ab7395e]
+		at java.base/java.util.concurrent.FutureTask.report(FutureTask.java:122)
+		at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:191)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:873)
+		... 22 more
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@ab7395e]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:419)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:186)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4575)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4708)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1332)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1322)
+		at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:264)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:866)
+		... 22 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [E:\Work02\mvc] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:749)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:707)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		... 32 more
+20-Sep-2024 21:32:13.167 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 21:32:13.167 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-Sep-2024 21:32:13.171 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 21:32:22.203 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\Work02\apache-tomcat-9.0.83-src\lib], exists: [false], isDirectory: [false], canRead: [false]
+20-Sep-2024 21:32:22.205 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\Work02\apache-tomcat-9.0.83-src\lib], exists: [false], isDirectory: [false], canRead: [false]
+20-Sep-2024 21:32:22.205 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\Work02\apache-tomcat-9.0.83-src\lib], exists: [false], isDirectory: [false], canRead: [false]
+20-Sep-2024 21:32:22.205 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\Work02\apache-tomcat-9.0.83-src\lib], exists: [false], isDirectory: [false], canRead: [false]
+20-Sep-2024 21:32:22.403 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.x-dev
+20-Sep-2024 21:32:22.404 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          unknown
+20-Sep-2024 21:32:22.404 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.x
+20-Sep-2024 21:32:22.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+20-Sep-2024 21:32:22.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+20-Sep-2024 21:32:22.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Sep-2024 21:32:22.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\Java11
+20-Sep-2024 21:32:22.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.5+10-LTS
+20-Sep-2024 21:32:22.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+20-Sep-2024 21:32:22.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\Work02\apache-tomcat-9.0.83-src
+20-Sep-2024 21:32:22.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\Work02\apache-tomcat-9.0.83-src
+20-Sep-2024 21:32:22.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:58723,suspend=y,server=n
+20-Sep-2024 21:32:22.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\Work02\apache-tomcat-9.0.83-src
+20-Sep-2024 21:32:22.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\Work02\apache-tomcat-9.0.83-src
+20-Sep-2024 21:32:22.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\Work02\apache-tomcat-9.0.83-sr\temp
+20-Sep-2024 21:32:22.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Sep-2024 21:32:22.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\Work02\apache-tomcat-9.0.83-src\conf\logging.properties
+20-Sep-2024 21:32:22.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote
+20-Sep-2024 21:32:22.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.port=8011
+20-Sep-2024 21:32:22.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+20-Sep-2024 21:32:22.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+20-Sep-2024 21:32:22.406 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Duser.language=en
+20-Sep-2024 21:32:22.406 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Duser.region=US
+20-Sep-2024 21:32:22.406 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\19129\AppData\Local\JetBrains\IntelliJIdea2022.2\captureAgent\debugger-agent.jar
+20-Sep-2024 21:32:22.406 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+20-Sep-2024 21:32:22.421 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\Java11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\NetSarang\Xftp 6\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\Java11;C:\Users\19129\123\Java\apache-maven-3.6.1\apache-maven-3.6.1\bin;F:\exploitation\consul_1.3.1_windows_amd64;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;F:\exploitation\yarn\bin\;F:\exploitation\SVN\bin;C:\Program Files\Java\Java11\jre\bin;F:\exploitation\gradle-5.6.4-bin\gradle-5.6.4\bin;C:\Users\19129\123\Git\mingw64\bin;C:\Users\19129\123\Git\mingw64\cmd;C:\Program Files (x86)\Tencent\微信web开发者工具\dll;C:\Users\19129\123\mysql-5.7\bin;C:\Users\19129\AppData\Local\Microsoft\WindowsApps;C:\Users\19129\123\Microsoft VS Code\bin;C:\Users\19129\AppData\Local\Yarn\bin;;.]
+20-Sep-2024 21:32:22.604 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 21:32:22.629 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [411] milliseconds
+20-Sep-2024 21:32:22.694 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Sep-2024 21:32:22.694 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.x-dev]
+20-Sep-2024 21:32:23.154 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Sep-2024 21:32:23.456 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [299] milliseconds.
+20-Sep-2024 21:32:23.472 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\docs]
+20-Sep-2024 21:32:23.490 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Sep-2024 21:32:23.492 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\docs] has finished in [21] ms
+20-Sep-2024 21:32:23.492 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\examples]
+20-Sep-2024 21:32:23.591 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Sep-2024 21:32:23.603 SEVERE [main] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+20-Sep-2024 21:32:23.604 SEVERE [main] org.apache.catalina.core.StandardContext.startInternal Context [/examples] startup failed due to previous errors
+20-Sep-2024 21:32:23.612 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\examples] has finished in [120] ms
+20-Sep-2024 21:32:23.613 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\host-manager]
+20-Sep-2024 21:32:23.632 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Sep-2024 21:32:23.635 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\host-manager] has finished in [22] ms
+20-Sep-2024 21:32:23.636 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\manager]
+20-Sep-2024 21:32:23.653 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Sep-2024 21:32:23.654 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\manager] has finished in [18] ms
+20-Sep-2024 21:32:23.654 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\ROOT]
+20-Sep-2024 21:32:23.675 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Sep-2024 21:32:23.678 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\ROOT] has finished in [24] ms
+20-Sep-2024 21:32:23.681 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 21:32:23.701 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1070] milliseconds
+20-Sep-2024 21:41:52.936 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 21:41:53.204 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+20-Sep-2024 21:41:53.221 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 21:41:53.232 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 21:41:57.789 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\Work02\apache-tomcat-9.0.83-src\lib], exists: [false], isDirectory: [false], canRead: [false]
+20-Sep-2024 21:41:57.791 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\Work02\apache-tomcat-9.0.83-src\lib], exists: [false], isDirectory: [false], canRead: [false]
+20-Sep-2024 21:41:57.791 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\Work02\apache-tomcat-9.0.83-src\lib], exists: [false], isDirectory: [false], canRead: [false]
+20-Sep-2024 21:41:57.791 WARNING [main] org.apache.catalina.startup.ClassLoaderFactory.validateFile Problem with directory [E:\Work02\apache-tomcat-9.0.83-src\lib], exists: [false], isDirectory: [false], canRead: [false]
+20-Sep-2024 21:41:57.988 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.x-dev
+20-Sep-2024 21:41:57.988 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          unknown
+20-Sep-2024 21:41:57.988 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.x
+20-Sep-2024 21:41:57.988 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+20-Sep-2024 21:41:57.988 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+20-Sep-2024 21:41:57.988 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+20-Sep-2024 21:41:57.989 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\Java11
+20-Sep-2024 21:41:57.989 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.5+10-LTS
+20-Sep-2024 21:41:57.989 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+20-Sep-2024 21:41:57.989 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\Work02\apache-tomcat-9.0.83-src
+20-Sep-2024 21:41:57.989 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\Work02\apache-tomcat-9.0.83-src
+20-Sep-2024 21:41:57.989 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:59104,suspend=y,server=n
+20-Sep-2024 21:41:57.989 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\Work02\apache-tomcat-9.0.83-src
+20-Sep-2024 21:41:57.989 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\Work02\apache-tomcat-9.0.83-src
+20-Sep-2024 21:41:57.989 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\Work02\apache-tomcat-9.0.83-sr\temp
+20-Sep-2024 21:41:57.989 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+20-Sep-2024 21:41:57.989 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\Work02\apache-tomcat-9.0.83-src\conf\logging.properties
+20-Sep-2024 21:41:57.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote
+20-Sep-2024 21:41:57.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.port=8011
+20-Sep-2024 21:41:57.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+20-Sep-2024 21:41:57.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+20-Sep-2024 21:41:57.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Duser.language=en
+20-Sep-2024 21:41:57.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Duser.region=US
+20-Sep-2024 21:41:57.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Users\19129\AppData\Local\JetBrains\IntelliJIdea2022.2\captureAgent\debugger-agent.jar
+20-Sep-2024 21:41:57.990 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+20-Sep-2024 21:41:58.003 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\Java11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\NetSarang\Xftp 6\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Java\Java11;C:\Users\19129\123\Java\apache-maven-3.6.1\apache-maven-3.6.1\bin;F:\exploitation\consul_1.3.1_windows_amd64;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;F:\exploitation\yarn\bin\;F:\exploitation\SVN\bin;C:\Program Files\Java\Java11\jre\bin;F:\exploitation\gradle-5.6.4-bin\gradle-5.6.4\bin;C:\Users\19129\123\Git\mingw64\bin;C:\Users\19129\123\Git\mingw64\cmd;C:\Program Files (x86)\Tencent\微信web开发者工具\dll;C:\Users\19129\123\mysql-5.7\bin;C:\Users\19129\AppData\Local\Microsoft\WindowsApps;C:\Users\19129\123\Microsoft VS Code\bin;C:\Users\19129\AppData\Local\Yarn\bin;;.]
+20-Sep-2024 21:41:58.183 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 21:41:58.203 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [399] milliseconds
+20-Sep-2024 21:41:58.260 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+20-Sep-2024 21:41:58.260 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.x-dev]
+20-Sep-2024 21:41:59.355 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Sep-2024 21:41:59.673 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [310] milliseconds.
+20-Sep-2024 21:42:00.655 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\docs]
+20-Sep-2024 21:42:00.676 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Sep-2024 21:42:00.678 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\docs] has finished in [23] ms
+20-Sep-2024 21:42:00.678 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\examples]
+20-Sep-2024 21:42:00.746 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Sep-2024 21:42:00.754 SEVERE [main] org.apache.catalina.core.StandardContext.startInternal One or more listeners failed to start. Full details will be found in the appropriate container log file
+20-Sep-2024 21:42:00.755 SEVERE [main] org.apache.catalina.core.StandardContext.startInternal Context [/examples] startup failed due to previous errors
+20-Sep-2024 21:42:00.761 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\examples] has finished in [83] ms
+20-Sep-2024 21:42:00.761 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\host-manager]
+20-Sep-2024 21:42:00.778 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Sep-2024 21:42:00.782 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\host-manager] has finished in [21] ms
+20-Sep-2024 21:42:00.782 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\manager]
+20-Sep-2024 21:42:00.799 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Sep-2024 21:42:00.800 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\manager] has finished in [18] ms
+20-Sep-2024 21:42:00.802 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\ROOT]
+20-Sep-2024 21:42:00.827 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+20-Sep-2024 21:42:00.832 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [E:\Work02\apache-tomcat-9.0.83-src\webapps\ROOT] has finished in [31] ms
+20-Sep-2024 21:42:00.835 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+20-Sep-2024 21:42:00.849 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2646] milliseconds
+20-Sep-2024 22:37:03.109 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
